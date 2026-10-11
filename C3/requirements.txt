@@ -1,0 +1,5 @@
+anthropic==0.40.0
+chromadb>=1.0,<2
+flask==3.0.3
+python-dotenv==1.0.1
+requests==2.32.3
